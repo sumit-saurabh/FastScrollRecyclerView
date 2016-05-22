@@ -1,0 +1,10 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@android:id/text1"
+          android:layout_width="match_parent"
+          android:layout_height="56dp"
+          android:textAppearance="?android:attr/textAppearanceListItemSmall"
+          android:gravity="center_vertical"
+          android:padding="5dp"
+          android:paddingRight="10dp"
+          android:text="@string/app_name"
+          android:minHeight="?android:attr/listPreferredItemHeightSmall" />
